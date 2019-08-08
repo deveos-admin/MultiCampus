@@ -21,3 +21,9 @@
 
 ### Chap 08
 > NFT 컨트랙트
+
+### Chap 09
+> 야구게임 Web 연결 EOSJS 사용 js
+
+### Chap 10
+> 야구게임 Scatter 연결 EOSJS 사용 js
