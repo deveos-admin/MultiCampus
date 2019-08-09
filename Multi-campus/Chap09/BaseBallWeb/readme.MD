@@ -18,18 +18,3 @@ EOSJS 환경구성
 > cd test
 >
 > npm install eosjs@16.0.9
-
-### 6. PC Scatter 설치
-> https://get-scatter.com
-
-### 7. Scatter.JS 설치
-> npm i -S scatterjs-core
->
-> npm i -S scatterjs-plugin-eosjs
-
-### 8. Scatter 세팅
-> npm i -D @babel/runtime
->
-> NPM EOSJS 16.0.9
->
-> https://www.npmjs.com/package/eosjs/v/16.0.9
